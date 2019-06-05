@@ -1,0 +1,10 @@
+C:\Users\Athila\Documents\Visual Studio 2012\Projects\iGUIPro\iGUIPro\bin\Debug\iGUIPro.dll
+C:\Users\Athila\Documents\Visual Studio 2012\Projects\iGUIPro\iGUIPro\bin\Debug\iGUIPro.pdb
+C:\Users\Athila\Documents\Visual Studio 2012\Projects\iGUIPro\iGUIPro\bin\Debug\iGUIPro.xml
+C:\Users\Athila\Documents\Visual Studio 2012\Projects\iGUIPro\iGUIPro\obj\Debug\iGUIPro.csprojResolveAssemblyReference.cache
+C:\Users\Athila\Documents\Visual Studio 2012\Projects\iGUIPro\iGUIPro\obj\Debug\iGUIPro.csproj.ResolveComReference.cache
+C:\Users\Athila\Documents\Visual Studio 2012\Projects\iGUIPro\iGUIPro\obj\Debug\iGUIPro.iGUIPro.resources
+C:\Users\Athila\Documents\Visual Studio 2012\Projects\iGUIPro\iGUIPro\obj\Debug\iGUIPro.csproj.GenerateResource.Cache
+C:\Users\Athila\Documents\Visual Studio 2012\Projects\iGUIPro\iGUIPro\obj\Debug\iGUIPro.dll
+C:\Users\Athila\Documents\Visual Studio 2012\Projects\iGUIPro\iGUIPro\obj\Debug\iGUIPro.pdb
+C:\Users\Athila\documents\visual studio 2012\Projects\iGUIPRO\iGUIPro\obj\Debug\iGUIPro.Properties.Resources.resources
